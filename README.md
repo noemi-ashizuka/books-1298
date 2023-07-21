@@ -1,4 +1,4 @@
-## Module #3 - Database Quiz Templaete
+## Module #3 
 
 This is a starting point for the livecode reviewing the quiz answers:
 
